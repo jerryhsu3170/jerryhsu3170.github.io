@@ -1,8 +1,6 @@
 *{
     letter-spacing: 0.8px;
     line-height: 1.5em;
-
-
 }
 P.redred{
     color:red;
@@ -11,8 +9,8 @@ P.redred{
     text-indent: 2em;
 }
 p{
-    color: rgb(27, 105, 15);
+    color: rgb(45, 12, 1);
 }
 .blueblue{
-    color: brown;
+    color: rgb(25, 6, 137);
 }
