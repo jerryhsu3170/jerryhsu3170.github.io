@@ -2,15 +2,19 @@
     letter-spacing: 0.8px;
     line-height: 1.5em;
 }
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+}
 P.redred{
-    color:red;
+    color:rgb(128, 94, 57);
     font-size: 40px;
     text-align: left;
     text-indent: 2em;
+background-color: pink;
 }
 p{
-    color: rgb(45, 12, 1);
+    color: rgb(155, 83, 28);
 }
 .blueblue{
-    color: rgb(25, 6, 137);
+    color: rgb(249, 36, 171);
 }
