@@ -1,9 +1,11 @@
+*{
+    letter-spacing: 0.8px;
+}
 P.redred{
     color:red;
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
-    letter-spacing: 0.8px;
 }
 p{
     color: rgb(27, 105, 15);
