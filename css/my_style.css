@@ -2,6 +2,7 @@ P.redred{
     color:red;
     font-size: 40px;
     text-align: center;
+    text-indent: 2em;
 }
 p{
     color: rgb(27, 105, 15);
