@@ -18,3 +18,12 @@ p{
 .blueblue{
     color: rgb(249, 36, 171);
 }
+
+.expedu_icon{
+    color:rgb(152, 67, 21);
+}
+
+.expedu_icon:hover{
+background-color: rgb(227, 129, 49);
+color:whitesmoke;
+}
