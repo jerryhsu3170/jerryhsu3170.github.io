@@ -43,7 +43,11 @@ ol.Jerrylist{
 ol.Jerrylist>li:hover{
     background-color: black;
 }
-table.jerrytable{
+table.Jerrytable{
     width: 100%;
-     background-color: black
+    background-color: rgb(117, 106, 40);
+    color:white
+}
+table.Jerrytable td{
+    text-align:center;
 }
