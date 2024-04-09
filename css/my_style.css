@@ -43,11 +43,17 @@ ol.Jerrylist{
 ol.Jerrylist>li:hover{
     background-color: black;
 }
-table.Jerrytable{
+table.Jerrytable th{
     width: 100%;
     background-color: rgb(117, 106, 40);
     color:white
 }
 table.Jerrytable td{
-    text-align:center;
+    text-align: center;
+}
+table.Jerrytable tr:nth-child(even){
+    background-color:darkred
+}
+table.Jerrytable tr:nth-child(odd){
+    background-color: darkblue;
 }
