@@ -36,3 +36,10 @@ color:whitesmoke;
     background-position-x: center;
     
 }
+
+ol.Jerrylist{
+    list-style-type: upper-alpha
+}
+ol.Jerrylist>li:hover{
+    background-color: black;
+}
