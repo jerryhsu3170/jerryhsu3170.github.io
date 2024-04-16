@@ -5,6 +5,10 @@
 body{
     font-family: 'Noto Serif TC', sans-serif;
 }
+.jerry80{
+    width: 80%;
+    margin: 0px auto;
+}
 p.redred{
     padding: 20px;
     margin: 50px auto;
