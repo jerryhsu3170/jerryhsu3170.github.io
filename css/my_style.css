@@ -15,7 +15,7 @@ p.redred{
     width: 80%;
     color:rgb(128, 94, 57);
     font-size: 40px;
-    text-align: left;
+    text-align: center;
     text-indent: 2em;
     background-color: pink;
     border:10px solid;
@@ -54,6 +54,7 @@ table.Jerrytable th{
     width: 100%;
     background-color: rgb(114, 63, 6);
     color:rgb(238, 109, 167);
+    text-align: center;
     border: 5px solid rgba(80, 2, 2, 0.94);
 }
 table.Jerrytable td{
@@ -66,4 +67,19 @@ table.Jerrytable tr:nth-child(even){
 }
 table.Jerrytable tr:nth-child(odd){
     background-color: rgb(114, 63, 6);
+}
+
+.table-80{
+    width: 80%;
+}
+
+.overflowtest{
+    background-color:black;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 15px;
+    width: 50%;
+    margin: 30px auto;
+    height: 150px;
+    overflow: scroll;
 }
