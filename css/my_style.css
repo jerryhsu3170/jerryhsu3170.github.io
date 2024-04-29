@@ -75,9 +75,9 @@ table.Jerrytable tr:nth-child(odd){
 }
 
 .overflowtest{
-    background-color:rgb(200, 121, 23);
+    background-color:rgb(9, 9, 9);
     color:white;
-    padding: 10px 20px;
+    padding: 20px 20px;
     border-radius: 15px;
     width: 50%;
     margin: 30px auto;
